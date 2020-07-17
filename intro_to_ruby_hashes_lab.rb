@@ -21,7 +21,7 @@ monopoly = {
 	}
 end
 
-def monopoly_with_third_tier = 
+def monopoly_with_third_tier  
 
 end
 
